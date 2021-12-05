@@ -2,7 +2,7 @@
 
 ## Demo
 
-![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/pics/result.png)
+![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/pics/result.gif)
 
 ## 环境配置教程
 

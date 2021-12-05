@@ -1,5 +1,9 @@
 # OpenGL
 
+## Demo
+
+![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/pics/result.png)
+
 ## 环境配置教程
 
 ### 设备和运行环境

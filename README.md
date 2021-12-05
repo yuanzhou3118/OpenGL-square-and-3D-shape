@@ -2,7 +2,7 @@
 
 ## Demo
 
-![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/pics/result.gif)
+![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/blob/master/pics/result.gif)
 
 ## 环境配置教程
 
@@ -29,7 +29,7 @@ brew install glfw
 
 类似下图：
 
-![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/pics/install-glfw.png)
+![](https://github.com/yuanzhou3118/OpenGL-square-and-3D-shape/blob/master/pics/install-glfw.png)
 
 - freeglut
 
